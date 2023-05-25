@@ -33,7 +33,7 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### Programming languages
 
 <p align="center"> 
   &emsp;
@@ -43,7 +43,7 @@
 </p>
 
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ ###  Software & Tools
  
 <p align="center">
   &emsp;
@@ -77,7 +77,7 @@
 
 
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
